@@ -1,0 +1,6 @@
+{
+  "name": "agent-gorn-generador-de-contrasenas-segur-morvv1vi",
+  "version": "1.0.0",
+  "description": "Proyecto de Gorn [Gen21]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
